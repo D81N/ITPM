@@ -28,10 +28,8 @@ public class Main {
 
             if (fX1 < fXm) {
                 b = xm;
-                xm = x1;
             } else if (fX2 < fXm) {
                 a = xm;
-                xm = x2;
             } else {
                 a = x1;
                 b = x2;
