@@ -46,7 +46,7 @@ public class Main {
 //            System.out.println("\tf(x1) = " + fX1 + " | f(x2) = " + fX2);
 //            System.out.println("\tf(Xm) = " + fXm);
         }
-
+fegreger
         return (a + b) / 2;
     }
 
