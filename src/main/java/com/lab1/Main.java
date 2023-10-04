@@ -40,13 +40,13 @@ public class Main {
 
             iteration++;
 
-//            System.out.println("ITERATION " + iteration);
-//            System.out.println("\ta = " + a + " | b = " + b);
-//            System.out.println("\tx1 = " + x1 + " | x2 = " + x2);
-//            System.out.println("\tf(x1) = " + fX1 + " | f(x2) = " + fX2);
-//            System.out.println("\tf(Xm) = " + fXm);
+            System.out.println("ITERATION " + iteration);
+            System.out.println("\ta = " + a + " | b = " + b);
+            System.out.println("\tx1 = " + x1 + " | x2 = " + x2);
+            System.out.println("\tf(x1) = " + fX1 + " | f(x2) = " + fX2);
+            System.out.println("\tf(Xm) = " + fXm);
         }
-fegreger
+
         return (a + b) / 2;
     }
 
